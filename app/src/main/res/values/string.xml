@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="model_options">
+        <item>YOLOv11n float16</item>
+        <item>YOLOv11n int8</item>
+        <item>YOLOv11n int8 quant</item>
+        <item>YOLOv11s float16</item>
+        <item>YOLOv11s int8</item>
+        <item>YOLOv11s int8 quant</item>
+    </string-array>
+</resources>
