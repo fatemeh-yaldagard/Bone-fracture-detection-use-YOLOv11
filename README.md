@@ -26,3 +26,5 @@ The project provides a lightweight and efficient mobile solution for detecting f
 2. Select an X-ray image through the app interface.
 3. The app processes the image using the YOLOv11 TFLite model.
 4. Detected fracture lines are highlighted on the image, with confidence scores displayed if available.
+![Screenshot_2025_09_14_16_04_01_830_com_example_fracxxxturedetection](https://github.com/user-attachments/assets/e97fc89c-7103-4c1f-9923-aac449c6c44d)
+![Screenshot_2025_09_14_16_04_01_830_com_example_fracturedetection](https://github.com/user-attachments/assets/a2821668-4d20-41d9-bf58-24ec05969845)
