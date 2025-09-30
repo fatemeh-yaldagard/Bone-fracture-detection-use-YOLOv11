@@ -27,6 +27,4 @@ The project provides a lightweight and efficient mobile solution for detecting f
 3. The app processes the image using the YOLOv11 TFLite model.
 4. Detected fracture lines are highlighted on the image, with confidence scores displayed if available.
 
-![1](https://github.com/user-attachments/assets/ecd4b5fd-3c42-4e09-a885-e67725ad0fce)
-
-![2](https://github.com/user-attachments/assets/c0ec141e-6fba-40d7-9ea8-82e4407a20bc)
+![1](https://github.com/user-attachments/assets/ecd4b5fd-3c42-4e09-a885-e67725ad0fce)    ![2](https://github.com/user-attachments/assets/c0ec141e-6fba-40d7-9ea8-82e4407a20bc)
